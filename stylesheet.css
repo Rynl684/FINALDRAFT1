@@ -17,7 +17,7 @@ body {
 .navbar a {
   float: left; 
   display: block;
-  color: #1EDA38;
+  color: #00FFA2;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -27,7 +27,7 @@ body {
 
 .navbar a:hover {
   background-color: 0013FF;
-  color: #FF0032;
+  color: #00D8FF;
   
 }
 
