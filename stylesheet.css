@@ -8,3 +8,31 @@ body {
   background-size: cover;
   color: #70C9C5;
 }
+
+.navbar {
+  overflow:hidden;
+  background-color: #FFB600;
+}
+
+.navbar a {
+  float: left; 
+  display: block;
+  color: #1EDA38;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+
+.navbar a:hover {
+  background-color: 0013FF;
+  color: #FF0032;
+
+.navbar a.active {
+  background color: #00FFF3;
+  color: #FF00D4;
+  
+}
+    
+  
