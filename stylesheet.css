@@ -28,6 +28,8 @@ body {
 .navbar a:hover {
   background-color: 0013FF;
   color: #FF0032;
+  
+}
 
 .navbar a.active {
   background color: #00FFF3;
