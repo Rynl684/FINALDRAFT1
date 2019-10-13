@@ -17,7 +17,7 @@ body {
 .navbar a {
   float: left; 
   display: block;
-  color: #00FFA2;
+  color: #0C00FF;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -33,7 +33,7 @@ body {
 
 .navbar a.active {
   background color: #00FFF3;
-  color: #FF00D4;
+  color: #7C00FF;
   
 }
     
